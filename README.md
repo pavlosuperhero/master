@@ -1,1 +1,1 @@
-# master
+# Simple projects, for learning
